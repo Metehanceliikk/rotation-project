@@ -15,8 +15,12 @@ Bu proje, kullanıcıların görüntüleri belirli bir açıyla döndürmesine o
    ```bash
    pip install Flask Pillow
 
-1.)cd <proje_dizini>
+2. **Terminale aşağıdaki kısıları sırayla yazın**:
+```bash
+   cd <proje_dizini>
+   python app.py
 
-2.)python app.py
+
+
 
 Tarayıcınızı açın ve http://127.0.0.1:5000/ adresine gidin.
